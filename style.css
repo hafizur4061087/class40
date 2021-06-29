@@ -1,0 +1,40 @@
+.header_section{
+    
+}
+.header_content h2 {
+    font-size: 20px;
+    font-weight: 800;
+    margin-top: 10px;
+}
+.header_menu{
+    text-align: right;
+}
+.header_menu ul li a{
+    color: black;
+}
+.banner_section{
+    background: #f9f9ff;
+}
+.banner_content h5 {
+    margin-top: 133px;
+    margin-bottom: 40px;
+}
+.banner_content p{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.pricing_section{
+    height: 300px;
+}
+.pricing_content{
+    margin-top: 114px;
+}
+.blog_content{
+    background: #f9f9ff;
+}
+.number{
+    height: 100px;
+    width: 100px;
+    background: rebeccapurple;
+    border-radius: 50%;
+}
